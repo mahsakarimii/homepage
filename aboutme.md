@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
+title: Publications
 subtitle: Quantum optics researcher
 ---
 
-Welcome to my academic webpage! My name is Mahsa Karimi. I am a PhD student at the University of Calgary, supervised by [Prof. Christoph Simon](https://www.iqst.ca/people/peoplepage.php?id=225). My research is focused on theoretical quantum optics.
+- (Simulating of X-states and the two-qubit XYZ Heisenberg system on IBM quantum computer)[https://iopscience.iop.org/article/10.1088/1402-4896/ac49b0/meta]
